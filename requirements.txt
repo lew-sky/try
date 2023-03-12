@@ -6,7 +6,6 @@ certifi==2022.12.7
 charset-normalizer==3.1.0
 click==8.1.3
 colorama==0.4.6
-cv2==4.7.0.72
 decorator==5.1.1
 entrypoints==0.4
 gitdb==4.0.10
