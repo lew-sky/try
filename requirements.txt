@@ -17,9 +17,9 @@ jsonschema==4.17.3
 markdown-it-py==2.2.0
 MarkupSafe==2.1.2
 mdurl==0.1.2
-numpy==1.24.2
+numpy
 opencv-python==4.7.0.72
-opencv-python-headless==4.3.0.38
+opencv-python-headless
 packaging==23.0
 pandas==1.5.3
 Pillow==9.4.0
